@@ -1,4 +1,4 @@
-# Garden Calculator
+# Garden Calendar
 
 A very simple way to see what I need to do in the garden this month.
 
