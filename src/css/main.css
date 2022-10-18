@@ -1,0 +1,7 @@
+@import url('./base/custom-properties.css');
+@import url('./base/reset.css');
+@import url('./base/typography.css');
+
+@import url('./components/app.css');
+@import url('./components/months.css');
+@import url('./components/plants.css');

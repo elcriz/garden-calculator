@@ -1,0 +1,31 @@
+.app {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 var(--spacing);
+  box-sizing: border-box;
+}
+
+.app__header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app__header h1 {
+  margin: var(--spacing);
+  font-size: var(--font-size-100);
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 440px) {
+  .app__header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    background-color: rgba(var(--color-ui-dark), .90);
+    z-index: +1;
+  }
+}

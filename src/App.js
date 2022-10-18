@@ -1,22 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import classNames from 'classnames';
 import { format } from 'date-fns';
+import Months from './components/Months';
+import Plants from './components/Plants';
 import plantsService from './services/plantsService';
-
-const months = {
-  1: 'Januari',
-  2: 'Februari',
-  3: 'Maart',
-  4: 'April',
-  5: 'Mei',
-  6: 'Juni',
-  7: 'Juli',
-  8: 'Augustus',
-  9: 'September',
-  10: 'Oktober',
-  11: 'November',
-  12: 'December',
-};
 
 const App = () => {
   const [currentMonth, setCurrentMonth] = useState(
@@ -48,56 +35,19 @@ const App = () => {
     <div className={classNames('app', {
       'is-loading': isFetching,
     })}>
-      <header>
+      <header className="app__header">
         <h1>Garden Calendar</h1>
       </header>
-      <nav>
-        <ul className="months">
-          {Object.keys(months).map(month => (
-            <li
-              key={month}
-              className={classNames('month', {
-                'is-current': month === currentMonth,
-              })}
-            >
-              <button
-                type="button"
-                onClick={() => {
-                  setCurrentMonth(month)
-                }}
-              >
-                {months[month]}
-              </button>
-            </li>
-          ))}
-        </ul>
-      </nav>
+      <Months
+        currentMonth={currentMonth}
+        isLoading={isFetching}
+        onChange={setCurrentMonth}
+      />
       <main>
-        <ul className="plants">
-          {!isFetching && plants.map(({ name, tasks }, taskIndex) => (
-            <li
-              key={taskIndex}
-              className="plant"
-            >
-              <h2>{name}</h2>
-              <ul className="tasks">
-                {tasks.map(({ title, description, infoUrl }, taskIndex) => (
-                  <li
-                    key={taskIndex}
-                    className="task"
-                  >
-                    <h3>{title}</h3>
-                    {description && (
-                      <div className="task__description">
-                        {description}
-                      </div>
-                    )}
-                  </li>
-                ))}
-              </ul>
-            </li>
-          ))}
-        </ul>
+        <Plants
+          items={plants}
+          isLoading={isFetching}
+        />
         {error && (
           <div className="error">
             {error}
