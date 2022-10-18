@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Duizendblad",
+    "tasks": [
+      {
+        "months": [11, 12, 1, 2, 3, 4],
+        "title": "Uitgebloeide stengels afknippen",
+        "description": "Uitgebloeide stengels 10cm van de grond afknippen"
+      }
+    ]
+  },
+  {
+    "name": "Ereprijs",
+    "tasks": [
+      {
+        "months": [10, 11, 12, 1, 2, 3, 4],
+        "title": "Uitgebloeide stengels afknippen",
+        "description": "Uitgebloeide stengels 10cm van de grond afknippen"
+      }
+    ]
+  },
+  {
+    "name": "Grotere ereprijs-soorten",
+    "tasks": [
+      {
+        "months": [4],
+        "title": "Dood loof van vorig jaar wegsnoeien",
+        "description": "Uitgebloeide loof van vorig seizoen weghalen, maar pas na de ergste kou zodat kluit beschermd blijft",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/virginische-ereprijs"
+      },
+      {
+        "months": [5],
+        "title": "Afsnoeien indien vorig jaar te hoog",
+        "description": "Plant gaat dan meer vertakken en blijft wat lager",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/virginische-ereprijs"
+      }
+    ]
+  },
+  {
+    "name": "Rozemarijn",
+    "tasks": [
+      {
+        "months": [4, 5],
+        "title": "Terugsnoeien/takken verwijderen",
+        "description": "Voor start bloei teveel aan takken wegsnoeien, bevordert groei"
+      }
+    ]
+  },
+  {
+    "name": "Tijm",
+    "tasks": [
+      {
+        "months": [3, 4],
+        "title": "Terugsnoeien tot 5cm boven grond",
+        "description": "Voor de start van de groei"
+      }
+    ]
+  },
+  {
+    "name": "Rudbeckia (gele composieten met donker hart)",
+    "tasks": [
+      {
+        "months": [10, 11, 12, 1, 2, 3, 4],
+        "title": "Uitgebloeide stengels afknippen",
+        "description": "Uitgebloeide stengels 10cm van de grond afknippen"
+      }
+    ]
+  },
+  {
+    "name": "Wilde Bertram",
+    "tasks": [
+      {
+        "months": [10, 11, 12, 1, 2, 3, 4],
+        "title": "Stengels afknippen",
+        "description": "Uitgebloeide stengels 10cm van de grond afknippen"
+      }
+    ]
+  },
+  {
+    "name": "Witte aalbes",
+    "tasks": [
+      {
+        "months": [3, 4],
+        "title": "Extra voeding/bemesting geven rond wortels"
+      },
+      {
+        "months": [2, 3],
+        "title": "Oude takken deels wegsnoeien (indien nog geen sapstroom)"
+      },
+      {
+        "months": [7, 8],
+        "title": "Bessen oogsten"
+      }
+    ]
+  },
+  {
+    "name": "Vrouwenmantel",
+    "tasks": [
+      {
+        "months": [6, 7, 8],
+        "title": "Bloemstengel met uitgebloeide bloemen wegknippen",
+        "description": "Kans dat plant opnieuw bloeit in augustus/september"
+      },
+      {
+        "months": [5, 6, 7, 8, 9, 10],
+        "title": "Snoeien/opschonen/uitdunnen",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Kruipend zennegroen",
+    "tasks": [
+      {
+        "months": [3, 4],
+        "title": "Extra water geven",
+        "description": "Ter ondersteuning vroege groei",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/kruipend-zenegroen"
+      },
+      {
+        "months": [5, 6, 7, 8, 9, 10],
+        "title": "Snoeien/opschonen/uitdunnen",
+        "description": "Teveel aan plantmateriaal verwijderen",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/kruipend-zenegroen"
+      }
+    ]
+  },
+  {
+    "name": "Verbena bonariensis (IJzerhard)",
+    "tasks": [
+      {
+        "months": [11, 12, 1, 2],
+        "title": "Beschermen tegen vorst",
+        "description": "Bescherm planten (die voor het eerst bloeiden - is 2-jarig) met mulch tegen vorst"
+      },
+      {
+        "months": [2, 3],
+        "title": "Uitgebloeide/afgestorven plantdelen weghalen"
+      },
+      {
+        "months": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "title": "Ongewenste opkomst verwijderen",
+        "description": "Verwijder ongewenste nieuwe plantjes waar nodig (bijv. tussen stenen)"
+      }
+    ]
+  },
+  {
+    "name": "Kaukasische vergeet-me-nietjes",
+    "tasks": [
+      {
+        "months": [4, 5, 6],
+        "title": "Na bloei bloemstengel afknippen",
+        "description": "Ter bevordering nieuwe bloei"
+      }
+    ]
+  },
+  {
+    "name": "Lavendel",
+    "tasks": [
+      {
+        "months": [3, 4],
+        "title": "Na laatste vorst terugsnoeien",
+        "description": "Zodra nieuw groen uitloopt, 1/3 afsnoeien (niet helemaal tot op hout). Dit houdt de plant mooi bossig en compact"
+      },
+      {
+        "months": [7, 8, 9],
+        "title": "Na bloei bloemstengel afknippen",
+        "description": "Ter bevordering nieuwe bloei"
+      },
+      {
+        "months": [4, 5],
+        "title": "Geen groei/bloei meer? Verwijderen/vervangen",
+        "description": "Plant wordt houtig en is over zijn mooist heen"
+      }
+    ]
+  },
+  {
+    "name": "Slangenkruid",
+    "tasks": []
+  },
+  {
+    "name": "Zwarte toorts",
+    "tasks": []
+  },
+  {
+    "name": "Knoopkruid",
+    "tasks": [
+      {
+        "months": [6, 7, 8],
+        "title": "Bij veel bloemen enkele knoppen afsnijden",
+        "description": "Bij teveel zijtakken/bloemen worden bloemen kleiner. Bereik grotere bloemen door enkele eindknoppen af te snijden",
+        "infoUrl": "https://www.picturethisai.com/nl/care/Centaurea_jacea.html"
+      },
+      {
+        "months": [7, 8],
+        "title": "Terugsnoeien tot helft grootte",
+        "description": "Indien stengels en bladeren verdort/lichtgroen/geel zijn",
+        "infoUrl": "https://www.picturethisai.com/nl/care/Centaurea_jacea.html"
+      },
+      {
+        "months": [12, 1, 2],
+        "title": "Wortels ondergronds afsnijden",
+        "description": "In de winter wordt geadviseerd om de wortels van knoopkruid met meerjarige wortels onder de grond af te snijden, zodat de plant koude temperaturen en vorst overleeft",
+        "infoUrl": "https://www.picturethisai.com/nl/care/Centaurea_jacea.html"
+      }
+    ]
+  },
+  {
+    "name": "Grote kattenstaart",
+    "tasks": []
+  },
+  {
+    "name": "Krentenboompje",
+    "tasks": []
+  },
+  {
+    "name": "Esdoorn",
+    "tasks": []
+  },
+  {
+    "name": "Beuk (haag)",
+    "tasks": []
+  },
+  {
+    "name": "Appelboom",
+    "tasks": []
+  },
+  {
+    "name": "Vlinderstruik",
+    "tasks": [
+      {
+        "months": [7, 8, 9],
+        "title": "Uitgebloeide bloemen verwijderen",
+        "description": "Stimuleert tweede bloei wat later in het jaar",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/vlinderstruik"
+      },
+      {
+        "months": [4],
+        "title": "Terugsnoeien voor bloei op 1-jarig hout",
+        "description": "Alleen als vorst voorbij is en sapstromen nog niet op gang zijn gekomen",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/vlinderstruik"
+      },
+      {
+        "months": [6, 7, 8],
+        "title": "Goed vastbinden aan paal tegen wind"
+      }
+    ]
+  },
+  {
+    "name": "Bieslook",
+    "tasks": [
+      {
+        "months": [6, 7, 8, 9],
+        "title": "Dagelijks water geven bij droogte",
+        "description": "Plant houdt niet van droge grond"
+      },
+      {
+        "months": [6, 7, 8, 9],
+        "title": "Plant vrijmaken indien overgroeid",
+        "description": "Onkruid rondom terugsnoeien/verwijderen zodat plant de ruimte heeft"
+      }
+    ]
+  },
+  {
+    "name": "Vingerhoedskruid",
+    "tasks": [
+      {
+        "months": [6, 7, 8, 9],
+        "title": "Dagelijks water geven bij droogte",
+        "description": "Plant houdt niet van droge grond",
+        "infoUrl": "https://www.sprinklr.co/blogs/tuinplanten-verzorging/vingerhoedskruid"
+      },
+      {
+        "months": [6, 7],
+        "title": "Hoofdbloemsteel direct na bloei afknippen",
+        "description": "Geeft hierdoor een tweede bloei. Gebruik handschoenen."
+      }
+    ]
+  },
+  {
+    "name": "Dikkemanskruid",
+    "tasks": [
+      {
+        "months": [4, 5, 6, 7, 8, 9, 10],
+        "title": "Uitlopers afsteken",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Rotsanjer",
+    "tasks": [
+      {
+        "months": [3, 4],
+        "title": "Pol terugsnoeien tot 5cm boven grond",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Gele dovenetel",
+    "tasks": []
+  },
+  {
+    "name": "Oost-Indische kers",
+    "tasks": []
+  },
+  {
+    "name": "Muskuskaasjeskruid",
+    "tasks": [
+      {
+        "months": [3, 4, 5],
+        "title": "Snoeien/opschonen/uitdunnen",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Manvaren",
+    "tasks": [
+      {
+        "months": [11, 12, 1, 2, 3],
+        "title": "Bij eerste nachtvorst kleine plant bedekken",
+        "description": "Indien onder -5 wordt verwacht, planten bedekken met jute/bladafval"
+      }
+    ]
+  },
+  {
+    "name": "Oost-Indische kers",
+    "tasks": []
+  },
+  {
+    "name": "Geel walstro",
+    "tasks": []
+  },
+  {
+    "name": "Lupine",
+    "tasks": [
+      {
+        "months": [4, 5, 6, 7, 8, 9, 10],
+        "title": "Snoeien/opschonen/uitdunnen",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Salvia",
+    "tasks": [
+      {
+        "months": [7, 8, 9, 10],
+        "title": "Snoeien/opschonen/uitdunnen",
+        "description": "Teveel aan plantmateriaal verwijderen"
+      }
+    ]
+  },
+  {
+    "name": "Roos",
+    "tasks": [
+      {
+        "months": [6, 7, 8, 9],
+        "title": "Dagelijks water geven bij droogte",
+        "description": "Plant houdt niet van droge grond"
+      },
+      {
+        "months": [7, 8, 9],
+        "title": "Uitgebloeide bloemen verwijderen",
+        "description": "Plant vormt zodoende nieuwe bloemen"
+      },
+      {
+        "months": [10, 11, 12],
+        "title": "Verteerde stalmest door grond scheppen",
+        "description": "Liefst stalmest op stro, helpt tegen bevriezing in winter"
+      },
+      {
+        "months": [9, 10, 11, 12],
+        "title": "Verteerde stalmest door grond scheppen",
+        "description": "Liefst stalmest op stro, helpt tegen bevriezing in winter"
+      }
+    ]
+  }
+]
