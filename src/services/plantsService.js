@@ -1,7 +1,7 @@
 const plantsService = {
   retrieveMonth: async (month) => {
     try {
-      const response = await fetch('/data/plants.json');
+      const response = await fetch('data/plants.json');
       if (!response.ok) {
         throw new Error(response.status);
       }
