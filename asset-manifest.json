@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/garden-calendar/static/css/main.4b84d6bd.css",
-    "main.js": "/garden-calendar/static/js/main.d6b9d8c2.js",
+    "main.js": "/garden-calendar/static/js/main.d55dd9f9.js",
     "index.html": "/garden-calendar/index.html",
     "main.4b84d6bd.css.map": "/garden-calendar/static/css/main.4b84d6bd.css.map",
-    "main.d6b9d8c2.js.map": "/garden-calendar/static/js/main.d6b9d8c2.js.map"
+    "main.d55dd9f9.js.map": "/garden-calendar/static/js/main.d55dd9f9.js.map"
   },
   "entrypoints": [
     "static/css/main.4b84d6bd.css",
-    "static/js/main.d6b9d8c2.js"
+    "static/js/main.d55dd9f9.js"
   ]
 }
