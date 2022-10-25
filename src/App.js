@@ -45,6 +45,7 @@ const App = () => {
       />
       <main>
         <Plants
+          currentMonth={currentMonth}
           items={plants}
           isLoading={isFetching}
         />

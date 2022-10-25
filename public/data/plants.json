@@ -1,6 +1,12 @@
 [
   {
     "name": "Duizendblad",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Achillea_millefolium_bloem.jpg",
+      "author": "Pethan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [11, 12, 1, 2, 3, 4],
@@ -11,6 +17,12 @@
   },
   {
     "name": "Ereprijs",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Veronica_officinalis0.jpg",
+      "author": "GFDL",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [10, 11, 12, 1, 2, 3, 4],
@@ -21,6 +33,12 @@
   },
   {
     "name": "Grotere ereprijs-soorten",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/PseudolysimachionLongifolium1.jpg",
+      "author": "Christian Fischer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [4],
@@ -38,6 +56,12 @@
   },
   {
     "name": "Rozemarijn",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rozemarijn.jpg",
+      "author": "Jcwf",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [4, 5],
@@ -48,6 +72,12 @@
   },
   {
     "name": "Tijm",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Thymus_vulgaris0.jpg",
+      "author": "Kurt Stüber",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [3, 4],
@@ -57,7 +87,13 @@
     ]
   },
   {
-    "name": "Rudbeckia (gele composieten met donker hart)",
+    "name": "Rudbeckia",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rudbeckia_hirta_flower_closeup.jpg/2880px-Rudbeckia_hirta_flower_closeup.jpg",
+      "author": "Dcoetzee",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
     "tasks": [
       {
         "months": [10, 11, 12, 1, 2, 3, 4],
@@ -68,6 +104,12 @@
   },
   {
     "name": "Wilde Bertram",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Achillea_ptarmica_-_v%C3%B5sa-raudrohi.jpg/2880px-Achillea_ptarmica_-_v%C3%B5sa-raudrohi.jpg",
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [10, 11, 12, 1, 2, 3, 4],
@@ -78,6 +120,12 @@
   },
   {
     "name": "Witte aalbes",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Witte_bessen_%28Ribes_rubrum%29.jpg",
+      "author": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [3, 4],
@@ -95,6 +143,12 @@
   },
   {
     "name": "Vrouwenmantel",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Alchemilla_mollis_%28Fraaie_vrouwenmantel_bloeiwijze%29.jpg",
+      "author": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [6, 7, 8],
@@ -109,7 +163,13 @@
     ]
   },
   {
-    "name": "Kruipend zennegroen",
+    "name": "Kruipend zenegroen",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dabrowka_rozlogowa_cm01.jpg",
+      "author": "Tomasz Kuran",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
     "tasks": [
       {
         "months": [3, 4],
@@ -127,6 +187,12 @@
   },
   {
     "name": "Verbena bonariensis (IJzerhard)",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Verbena_bonariensis.jpg",
+      "author": "Tomasz Kuran",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
     "tasks": [
       {
         "months": [11, 12, 1, 2],
